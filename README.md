@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains scripts for 3D object detection using the NuScenes dataset and the SECOND deep learning framework. The project is designed to preprocess data, train a 3D object detection model, evaluate its performance, and visualize the results. It utilizes PyTorch, NuScenes devkit, and SECOND for efficient and scalable 3D object detection workflows.
+This repository contains scripts for 3D object detection using the NuScenes dataset and the SECOND deep learning framework. The project is designed to preprocess data, train a 3D object detection model(pedestrian), evaluate its performance, and visualize the results. It utilizes PyTorch, NuScenes devkit, and SECOND for efficient and scalable 3D object detection workflows.
 
 ## Features
 
